@@ -1,6 +1,5 @@
-Here’s a README for your Notepad project on GitHub:
 
----
+
 
 # 📝 Notepad
 
@@ -65,6 +64,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 Inspired by the classic Notepad applications and built to provide a simple, distraction-free writing experience.
 
----
 
-Let me know if you want any changes or additions! 😊
