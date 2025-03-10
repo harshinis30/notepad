@@ -3,7 +3,7 @@
 
 # 📝 Notepad
 
-A simple and intuitive Notepad application built using HTML, CSS, and JavaScript. This Notepad app provides a clean and responsive user interface for creating, editing, and saving text notes directly in your browser.
+A simple and intuitive Notepad application built using HTML, CSS, and JavaScript,React. This Notepad app provides a clean and responsive user interface for creating, editing, and saving text notes directly in your browser.
 
 ## 🚀 Features
 
